@@ -12,7 +12,7 @@ When you enter your notes you will be able to save them into a list and you will
 
 ## Screenshot
 
-![Note Taker](/public/images/Screenshot%2024-07-30%@%6.57.57PM.png)
+![Note Taker](/public/images/Screenshot%2024-07-30%@%6.57.57%PM.png)
 
 
 ## Links
